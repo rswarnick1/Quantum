@@ -6,4 +6,4 @@ It's just a pet project to see what I can do, and I'm certainly not an expert in
 notebooks and python code. 
 
 You can find the tutorials here: https://www.qiskit.org/learn
-and the package is qiskit available with pip
+and the package is qiskit available with pip. You should also install qiskit-aer with pip as well for the simulator.
